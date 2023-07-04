@@ -1,0 +1,15 @@
+17:15:2 =>[info] service_name:UserServiceRpc
+17:15:2 =>[info] method_name:Login
+17:15:2 =>[info] method_name:Loginout
+17:15:2 =>[info] method_name:Register
+17:15:2 =>[info] service_name:FriendServiceRpc
+17:15:2 =>[info] method_name:GetFriendList
+17:15:2 =>[info] method_name:AddFriend
+17:15:2 =>[info] service_name:GroupServiceRpc
+17:15:2 =>[info] method_name:GetGroupList
+17:15:2 =>[info] method_name:CreateGroup
+17:15:2 =>[info] method_name:AddGroup
+17:15:2 =>[info] service_name:MsgServiceRpc
+17:15:2 =>[info] method_name:OneChat
+17:15:2 =>[info] method_name:GroupChat
+17:15:2 =>[info] method_name:GetOfflineMsg

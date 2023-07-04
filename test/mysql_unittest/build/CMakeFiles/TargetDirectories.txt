@@ -1,0 +1,3 @@
+/home/nowcoder/projects/qq/qqchat/test/mysql_unittest/build/CMakeFiles/rebuild_cache.dir
+/home/nowcoder/projects/qq/qqchat/test/mysql_unittest/build/CMakeFiles/edit_cache.dir
+/home/nowcoder/projects/qq/qqchat/test/mysql_unittest/build/CMakeFiles/mysql_unittest.dir

@@ -1,0 +1,1 @@
+sudo ./autobuild.sh
